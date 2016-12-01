@@ -1,0 +1,22 @@
+{
+  "name": "XBUtils",
+  "version": "0.1.0",
+  "summary": "A short description of XBUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/XBUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fengxiangbo": "fengxiangbo@thinkjoy.cn"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/XBUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XBUtils/Classes/**/*"
+}

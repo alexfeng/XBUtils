@@ -1,0 +1,16 @@
+PODS:
+  - XBUtils (0.1.0)
+
+DEPENDENCIES:
+  - XBUtils (from `../`)
+
+EXTERNAL SOURCES:
+  XBUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XBUtils: 31ec8b316b99c0b99aa02461ad0ca8268551c807
+
+PODFILE CHECKSUM: 535bfd1d374918fa239cb3f0ed8463144099ace1
+
+COCOAPODS: 1.1.1
