@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XBUtils_Example' do
+  pod 'XBUtils', :path => '../'
+
+  target 'XBUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
